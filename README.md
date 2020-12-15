@@ -33,7 +33,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliciamarianne1507&show_icons=true&theme=gruvbox)](https://github.com/aliciamarianne1507/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamarianne1507&theme=blue-green)
  
 - Thanks for visiting. 
  
