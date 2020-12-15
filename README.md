@@ -1,25 +1,30 @@
 <img align="right" width="498" height="329" src="https://github.com/aliciamarianne1507/aliciamarianne1507/blob/main/Imagens/tenor.gif">
-
-
-# Welcome!
  
-## I'm Alicia Marianne Gonçalves de Paula!
+# Olá! Salut! Hi! こんにちは！
+## Alicia Marianne Gonçalves de Paula 👩‍💻
 
-👩‍🎓Control and Automation Engineer currently specializing in Software Engineering.
+# About me
 
-🤖RPA Developer at Base 2 Tecnologia
+🎓 Control and Automation Engineer currently specializing in Software Engineering.
 
-🌱 I’m currently learning Python, Java, HTML, CSS and JavaScript.
+🤖 Working at Base2 Tecnologia as RPA Developer.
 
-🇧🇷 - Native
+👩🏻‍💻 Experience with developement of Chatbots using the IlhaSoft PUSH plataform and as a intern, i worked with Project Management.
 
-🇺🇸 - Advanced
+💬 Languages:
+    <ul>
+        <li>English ✅</li>
+        <li>French 📝 </li>
+        <li>Japanese 📝</li>
+    </ul>
 
-🇯🇵 - Begginer
+📚 Learning:
+[![Python Badge](https://img.shields.io/badge/python?style=flat-square&logo=Python&logoColor=blue)]
 
-🇫🇷 - Begginer 
+
+
  
-## About me 
+## Contact me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/aliciamarianne1507)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/alicia-gon%C3%A7alves-a301171/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail-Pessoal&logoColor=white&link=mailto:seu_email)](mailto:aliciadepaulaeng@gmail.com)
@@ -28,18 +33,3 @@
 - Thanks for visiting. 
  
 - Enjoy it!! o/
-
-<!--
-**aliciamarianne1507/aliciamarianne1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
