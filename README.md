@@ -18,7 +18,7 @@
         <li>Japanese 📝</li>
     </ul>
 
-📚 Learning:
+📚 Learning:<br></br>
 [![Python Badge](https://img.shields.io/badge/-Python-00f?style=flat-square&logo=Python&logoColor=blue&link=link_do_seu_perfil_no_github)](https://github.com/aliciamarianne1507)
 
 
