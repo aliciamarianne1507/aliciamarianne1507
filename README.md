@@ -19,7 +19,9 @@
     </ul>
 
 📚 Learning:<br></br>
-[![Python Badge](https://img.shields.io/badge/-Python-00f?style=flat-square&logo=Python&logoColor=blue&link=link_do_seu_perfil_no_github)](https://github.com/aliciamarianne1507)
+[![Python Badge](https://img.shields.io/badge/-Python-00f?style=flat-square&logo=Python&logoColor=blue&link=link_do_seu_perfil_no_github)](https://www.python.org/)
+[![Seleniun Badge](https://img.shields.io/badge/-Selenium-32CD32?style=flat-square&logo=Selenium&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.selenium.dev/)
+
 
 
 
