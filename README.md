@@ -20,7 +20,8 @@
 
 📚 Learning:<br></br>
 [![Python Badge](https://img.shields.io/badge/-Python-00f?style=flat-square&logo=Python&logoColor=blue&link=link_do_seu_perfil_no_github)](https://www.python.org/)
-[![Seleniun Badge](https://img.shields.io/badge/-Selenium-32CD32?style=flat-square&logo=Selenium&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.selenium.dev/)
+[![Selenium Badge](https://img.shields.io/badge/-Selenium-32CD32?style=flat-square&logo=Selenium&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.selenium.dev/)
+[![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.java.com/pt-BR/)
 
 
 
@@ -35,7 +36,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliciamarianne1507&show_icons=true&theme=gruvbox)](https://github.com/aliciamarianne1507/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamarianne1507&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamarianne1507&theme=gruvbox)
  
 - Thanks for visiting. 
  
