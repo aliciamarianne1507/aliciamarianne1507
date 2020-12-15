@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgojo-satoru-jujutsu-kaisen-gif-19188408&psig=AOvVaw1fnXAGsTEFGmF4m0qF0Bgu&ust=1608121442694000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiv0679z-0CFQAAAAAdAAAAABAk">
+<img align="right" width="400" height="400" src="https://media1.tenor.com/images/c13e7f371b14f93e91808200631b8a81/tenor.gif?itemid=19188408">
 
 
 
