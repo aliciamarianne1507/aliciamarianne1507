@@ -30,6 +30,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail-Pessoal&logoColor=white&link=mailto:seu_email)](mailto:aliciadepaulaeng@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail-Corporativo&logoColor=white&link=mailto:seu_email)](mailto:alicia.goncalves@base2.com.br)
 
+##
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliciamarianne1507&show_icons=true&theme=gruvbox)](https://github.com/aliciamarianne1507/github-readme-stats)
 
