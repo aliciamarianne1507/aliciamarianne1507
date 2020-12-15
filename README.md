@@ -29,6 +29,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/alicia-gon%C3%A7alves-a301171/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail-Pessoal&logoColor=white&link=mailto:seu_email)](mailto:aliciadepaulaeng@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail-Corporativo&logoColor=white&link=mailto:seu_email)](mailto:alicia.goncalves@base2.com.br)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
  
 - Thanks for visiting. 
  
