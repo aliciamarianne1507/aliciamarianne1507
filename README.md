@@ -11,11 +11,13 @@
 
 🌱 I’m currently learning Python, Java, HTML, CSS and JavaScript.
 
-💬 Languages:
-        🇧🇷 - Native
-        🇺🇸 - Advanced
-        🇯🇵 - Begginer
-        🇫🇷 - Begginer 
+🇧🇷 - Native
+
+🇺🇸 - Advanced
+
+🇯🇵 - Begginer
+
+🇫🇷 - Begginer 
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/aliciamarianne1507)
