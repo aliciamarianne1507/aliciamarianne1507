@@ -4,9 +4,18 @@
 # Welcome!
  
 ## I'm Alicia Marianne Gonçalves de Paula!
- 
-… Insira suas descrições aqui!
- 
+
+👩‍🎓Control and Automation Engineer currently specializing in Software Engineering.
+
+🤖RPA Developer at Base 2 Tecnologia
+
+🌱 I’m currently learning Python, Java, HTML, CSS and JavaScript.
+
+💬 Languages:
+        🇧🇷 - Native
+        🇺🇸 - Advanced
+        🇯🇵 - Begginer
+        🇫🇷 - Begginer 
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/aliciamarianne1507)
@@ -17,7 +26,6 @@
 - Thanks for visiting. 
  
 - Enjoy it!! o/
-### Hi there 👋
 
 <!--
 **aliciamarianne1507/aliciamarianne1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
