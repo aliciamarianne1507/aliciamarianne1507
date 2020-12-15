@@ -24,7 +24,10 @@
 [![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.java.com/pt-BR/)
 
 
+##
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamarianne1507&theme=gruvbox)
+ 
 
  
 ## Contact me 
@@ -32,12 +35,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/alicia-gon%C3%A7alves-a301171/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail-Pessoal&logoColor=white&link=mailto:seu_email)](mailto:aliciadepaulaeng@gmail.com)
 
-##
 
-/*[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliciamarianne1507&show_icons=true&theme=gruvbox)](https://github.com/aliciamarianne1507/github-readme-stats)*/
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamarianne1507&theme=gruvbox)
- 
 - Thanks for visiting. 
  
 - Enjoy it!! o/
