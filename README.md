@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://ibb.co/YfRSq6r">
+<img align="right" width="400" height="400" src="https://github.com/aliciamarianne1507/aliciamarianne1507/blob/main/Imagens/tenor.gif">
 
 
 
