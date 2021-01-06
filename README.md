@@ -21,7 +21,7 @@
 📚 Learning:<br></br>
 [![Python Badge](https://img.shields.io/badge/-Python-00f?style=flat-square&logo=Python&logoColor=blue&link=link_do_seu_perfil_no_github)](https://www.python.org/)
 [![Selenium Badge](https://img.shields.io/badge/-Selenium-32CD32?style=flat-square&logo=Selenium&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.selenium.dev/)
-[![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.java.com/pt-BR/)
+[![C++ Badge](https://img.shields.io/badge/-C++-FF0000?style=flat-square&logo=C++&logoColor=purple&link=link_do_seu_perfil_no_github)](https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2019)
 
 
 ##
