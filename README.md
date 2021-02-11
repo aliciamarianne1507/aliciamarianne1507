@@ -1,6 +1,6 @@
 <img align="right" width="498" height="329" src="https://github.com/aliciamarianne1507/aliciamarianne1507/blob/main/Imagens/tenor.gif">
  
-# Olá! Salut! Hi! こんにちは！
+# Olá! Salut! Hi!！
 ## Alicia Marianne Gonçalves de Paula 👩‍💻
 
 # About me
