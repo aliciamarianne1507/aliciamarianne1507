@@ -15,7 +15,6 @@
     <ul>
         <li>English ✅</li>
         <li>French 📝 </li>
-        <li>Japanese 📝</li>
     </ul>
 
 📚 Learning:<br></br>
