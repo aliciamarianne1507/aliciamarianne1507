@@ -20,8 +20,8 @@
 📚 Learning:<br></br>
 [![Python Badge](https://img.shields.io/badge/-Python-00f?style=flat-square&logo=Python&logoColor=blue&link=link_do_seu_perfil_no_github)](https://www.python.org/)
 [![Selenium Badge](https://img.shields.io/badge/-Selenium-32CD32?style=flat-square&logo=Selenium&logoColor=black&link=link_do_seu_perfil_no_github)](https://www.selenium.dev/)
-[![Django Badge](https://img.shields.io/badge/-Django-006400?style=flat-square&logo=Django&logoColor=green&link=link_do_seu_perfil_no_github)](https://www.djangoproject.com/)
-[![Flask Badge](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=Flask&logoColor=white&link=link_do_seu_perfil_no_github)](https://flask.palletsprojects.com/en/1.1.x/)
+[![Cypress Badge](https://img.shields.io/badge/-Cypress-006400?style=flat-square&logo=Cypress&logoColor=grey&link=link_do_seu_perfil_no_github)](https://docs.cypress.io/guides/overview/why-cypress)
+[![ReactJs Badge](https://img.shields.io/badge/-ReactJS-000?style=flat-square&logo=React&logoColor=blue&link=link_do_seu_perfil_no_github)](https://pt-br.reactjs.org/)
 
 
 ##
