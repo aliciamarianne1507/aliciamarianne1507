@@ -22,6 +22,8 @@
 [![Selenium Badge](https://img.shields.io/badge/-Selenium-32CD32?style=flat-square&logo=Selenium&logoColor=black&link=link_do_seu_perfil_no_github)](https://www.selenium.dev/)
 [![Cypress Badge](https://img.shields.io/badge/-Cypress-006400?style=flat-square&logo=Cypress&logoColor=grey&link=link_do_seu_perfil_no_github)](https://docs.cypress.io/guides/overview/why-cypress)
 [![ReactJs Badge](https://img.shields.io/badge/-ReactJS-000?style=flat-square&logo=React&logoColor=blue&link=link_do_seu_perfil_no_github)](https://pt-br.reactjs.org/)
+[![Java Badge](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=Java&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.java.com/pt-BR/)
+[![Rest Assures Badge](https://img.shields.io/badge/-Rest-Assured-00f?style=flat-square&logo=RestAssured&logoColor=white&link=link_do_seu_perfil_no_github)](https://rest-assured.io/)
 
 
 ##
